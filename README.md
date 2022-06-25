@@ -7,7 +7,7 @@ Uses CLIP to convert user-input text string or photo to a single emoji.
 Added caption-only image generator using code from here:
 https://github.com/samgermain/python-meme
 
-After finding the original kingchloexx CLIP-Image-Classification repository and notebooks have been deleted, I found a fork and created this repository to fix my personal copy of the original kingchloexx Colab.  Will try to recover the "classify an image" and "search within an image" notebooks, maybe rework my version so it can skip the image generation step, and make this a proper fork.
+After finding the original kingchloexx CLIP-Image-Classification repository and notebooks have been deleted, I found a fork and created this repository to fix my personal copy.  Will try to recover the "classify an image" and "search within an image" notebooks, maybe rework my version so it can skip the image generation step, and make this a proper fork.
 
 Forked from:
 # CLIP-Image-Classification
