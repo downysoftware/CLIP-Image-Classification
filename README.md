@@ -1,6 +1,6 @@
 # CLIP-Input-to-Emoji
 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1TYrfqS0IX0dVLAtnBFBf0BPHYy1KsV0h?usp=sharing)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1fbCKtF8H70q3nk0r20IEpt_rsHJngXM4?usp=sharing)
 
 Uses CLIP to convert user-input text string or photo to a single emoji.
 
